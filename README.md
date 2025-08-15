@@ -1,4 +1,4 @@
-<h1 align="center">Hi https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif </h1>
+<h1 align="center">Hi <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </h1>
 <p align="left">
 </p>
 
