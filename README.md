@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif </h1>
 <p align="left">
 </p>
 
